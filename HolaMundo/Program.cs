@@ -28,6 +28,8 @@ namespace MiPrimerPrograma
         // 4. Mostrar el resultado
         Console.WriteLine($"La suma de {numero1} y {numero2} es: {suma}");
         }
+
+        // Probando commist-profe ayudeme con mi compilacion porfaaa :(
     }
     
 }
